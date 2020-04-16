@@ -249,7 +249,7 @@ namespace Apache.NMS
 
 		AcknowledgementMode AcknowledgementMode { get; }
 		
-		String ClientID { get; set; }
+		String ClientId { get; set; }
 
 		#endregion
 		
